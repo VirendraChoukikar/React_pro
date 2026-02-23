@@ -36,7 +36,7 @@ npm run dev
 bash
 npm run build
 ```
-##For localhost 
+## For localhost 
  ```http://localhost:5174/React_pro/ ```
 
 ## Live Demo
