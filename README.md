@@ -39,4 +39,6 @@ npm run build
 
 ## Live Demo
 
+For localhost:- http://localhost:5174/React_pro/
+
 [View Live Demo](https://virendrachoukikar.github.io/React_pro/)
