@@ -114,8 +114,9 @@ const styles = {
     fontWeight: 'bold'
   },
   modalImage: {
-    maxWidth: '100%',
-    maxHeight: '80vh',
+    width: '80vw',
+    height: '70vh',
+    objectFit: 'cover',
     borderRadius: '8px'
   }
 };
