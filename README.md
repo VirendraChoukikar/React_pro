@@ -32,7 +32,8 @@ npm run dev
 ```
 
 3. Build for production:
-```bash
+```
+bash
 npm run build
 ```
 
